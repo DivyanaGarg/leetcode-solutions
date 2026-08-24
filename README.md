@@ -46,3 +46,11 @@ Solutions are automatically synchronized from LeetCode using LeetHub.
 Problem metadata, statistics and this README are automatically updated using GitHub Actions.
 
 ⭐ Keep solving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
+<!---LeetCode Topics End-->
