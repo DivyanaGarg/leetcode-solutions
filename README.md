@@ -6,12 +6,13 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 0 | 0 | 0 | 0 |
+| 1 | 0 | 0 | 1 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
+| Java | 1 |
 
 ## 🧠 Topics
 
@@ -34,6 +35,7 @@
 
 | # | Problem | Difficulty | Topics | Language |
 |---:|:---|:---|:---|:---|
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | Math | Java |
 
 <!-- PROBLEMS_END -->
 
