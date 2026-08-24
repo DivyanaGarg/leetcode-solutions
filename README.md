@@ -12,9 +12,6 @@
 
 | Language | Problems |
 |:---|---:|
-| Java | 0 |
-| C++ | 0 |
-| Python | 0 |
 
 ## 🧠 Topics
 
@@ -35,7 +32,8 @@
 
 <!-- PROBLEMS_START -->
 
-No problems solved yet.
+| # | Problem | Difficulty | Topics | Language |
+|---:|:---|:---|:---|:---|
 
 <!-- PROBLEMS_END -->
 
