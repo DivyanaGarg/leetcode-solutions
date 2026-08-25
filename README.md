@@ -6,19 +6,20 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 1 | 0 | 0 | 1 |
+| 2 | 0 | 0 | 2 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
+| C++ | 1 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 0 |
+| Arrays | 1 |
 | Binary Search | 0 |
 | Strings | 0 |
 | Recursion | 0 |
@@ -35,6 +36,7 @@
 
 | # | Problem | Difficulty | Topics | Language |
 |---:|:---|:---|:---|:---|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | C++ |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | Math | Java |
 
 <!-- PROBLEMS_END -->
