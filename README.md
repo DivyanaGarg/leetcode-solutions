@@ -6,21 +6,21 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 3 | 1 | 0 | 4 |
+| 4 | 1 | 0 | 5 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 3 |
+| C++ | 4 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 3 |
-| Binary Search | 0 |
+| Arrays | 4 |
+| Binary Search | 1 |
 | Strings | 0 |
 | Recursion | 0 |
 | Linked List | 0 |
@@ -38,6 +38,7 @@
 |---:|:---|:---|:---|:---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | C++ |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | Array, Math, Two Pointers | C++ |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | C++ |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | Array, Two Pointers | C++ |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | Math | Java |
 
