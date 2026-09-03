@@ -69,6 +69,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -77,6 +78,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
@@ -86,6 +88,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
