@@ -83,6 +83,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +140,8 @@ Problem metadata, statistics and this README are automatically updated using Git
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
