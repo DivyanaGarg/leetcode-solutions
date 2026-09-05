@@ -6,20 +6,20 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 6 | 2 | 0 | 8 |
+| 6 | 3 | 0 | 9 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 7 |
+| C++ | 8 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 7 |
+| Arrays | 8 |
 | Binary Search | 2 |
 | Strings | 0 |
 | Recursion | 0 |
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Topics | Language |
 |---:|:---|:---|:---|:---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | C++ |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | C++ |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | Array, Bit Manipulation | C++ |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Array, Two Pointers, Binary Search | C++ |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | Array, Math, Two Pointers | C++ |
