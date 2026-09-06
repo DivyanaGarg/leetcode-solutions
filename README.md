@@ -68,6 +68,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [2235-add-two-integers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -75,6 +76,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -151,5 +153,6 @@ Problem metadata, statistics and this README are automatically updated using Git
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
