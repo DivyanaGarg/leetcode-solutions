@@ -6,20 +6,20 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 8 | 6 | 0 | 14 |
+| 8 | 7 | 0 | 15 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 13 |
+| C++ | 14 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 13 |
+| Arrays | 14 |
 | Binary Search | 2 |
 | Strings | 0 |
 | Recursion | 0 |
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Topics | Language |
 |---:|:---|:---|:---|:---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | C++ |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Array, Math, Matrix | C++ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Array, Divide and Conquer, Dynamic Programming | C++ |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Array, Hash Table, Matrix | C++ |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | C++ |
