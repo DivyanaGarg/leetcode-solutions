@@ -6,20 +6,20 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 8 | 8 | 0 | 16 |
+| 9 | 8 | 0 | 17 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 15 |
+| C++ | 16 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 15 |
+| Arrays | 16 |
 | Binary Search | 2 |
 | Strings | 0 |
 | Recursion | 0 |
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Topics | Language |
 |---:|:---|:---|:---|:---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | C++ |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointers | C++ |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Array, Math, Matrix | C++ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Array, Divide and Conquer, Dynamic Programming | C++ |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Array, Matrix, Simulation | C++ |
