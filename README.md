@@ -6,20 +6,20 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 11 | 9 | 0 | 20 |
+| 12 | 9 | 0 | 21 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 19 |
+| C++ | 20 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 19 |
+| Arrays | 20 |
 | Binary Search | 3 |
 | Strings | 0 |
 | Recursion | 0 |
@@ -36,6 +36,7 @@
 
 | # | Problem | Difficulty | Topics | Language |
 |---:|:---|:---|:---|:---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, Hash Table | C++ |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Array, Two Pointers | C++ |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Array, Two Pointers | C++ |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Array, Math, Matrix | C++ |
