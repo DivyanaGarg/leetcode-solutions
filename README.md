@@ -76,6 +76,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [2235-add-two-integers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -130,6 +131,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
@@ -170,6 +172,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -185,4 +188,8 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
