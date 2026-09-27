@@ -6,14 +6,14 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 12 | 9 | 0 | 21 |
+| 13 | 9 | 0 | 22 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 20 |
+| C++ | 21 |
 
 ## 🧠 Topics
 
@@ -21,7 +21,7 @@
 |:---|---:|
 | Arrays | 20 |
 | Binary Search | 3 |
-| Strings | 0 |
+| Strings | 1 |
 | Recursion | 0 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -42,6 +42,7 @@
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Array, Math, Matrix | C++ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Array, Divide and Conquer, Dynamic Programming | C++ |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Array, Matrix, Simulation | C++ |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | Math, String, Bit Manipulation, Simulation | C++ |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Array, Hash Table, Matrix | C++ |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | C++ |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Array, Two Pointers, Sorting | C++ |
