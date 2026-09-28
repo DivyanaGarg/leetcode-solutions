@@ -82,6 +82,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
@@ -223,4 +224,8 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
