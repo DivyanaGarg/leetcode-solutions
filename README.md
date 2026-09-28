@@ -95,6 +95,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0069-sqrtx](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0263-ugly-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
