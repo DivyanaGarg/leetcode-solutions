@@ -6,14 +6,14 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 19 | 12 | 0 | 31 |
+| 20 | 12 | 0 | 32 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 31 |
+| C++ | 32 |
 
 ## 🧠 Topics
 
@@ -66,6 +66,7 @@
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Array, Two Pointers, Simulation | C++ |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | Math | C++, Java |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 Easy | Math | C++ |
+| 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | 🟢 Easy | Math | C++ |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | 🟢 Easy | Math, Number Theory | C++ |
 
 <!-- PROBLEMS_END -->
