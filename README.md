@@ -80,6 +80,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [2235-add-two-integers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -100,6 +101,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -195,4 +197,24 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
