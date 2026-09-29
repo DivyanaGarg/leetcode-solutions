@@ -103,6 +103,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0263-ugly-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2652-sum-multiples/) | Easy |
@@ -130,6 +131,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
