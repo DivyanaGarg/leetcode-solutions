@@ -135,6 +135,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -222,6 +223,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
