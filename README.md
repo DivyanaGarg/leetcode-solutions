@@ -6,20 +6,20 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 23 | 12 | 0 | 35 |
+| 24 | 12 | 0 | 36 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 35 |
+| C++ | 36 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 23 |
+| Arrays | 24 |
 | Binary Search | 4 |
 | Strings | 2 |
 | Recursion | 1 |
@@ -66,6 +66,7 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | 🟢 Easy | Math | C++ |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | 🟢 Easy | Array | C++ |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | 🟢 Easy | Array, Simulation | C++ |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | Array, Simulation | C++ |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Array, Two Pointers, Simulation | C++ |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 🟢 Easy | Math | C++, Java |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | 🟢 Easy | Math | C++ |
