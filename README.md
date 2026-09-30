@@ -100,6 +100,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0013-roman-to-integer](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -121,6 +122,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
