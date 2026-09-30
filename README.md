@@ -6,20 +6,20 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 29 | 12 | 0 | 41 |
+| 30 | 12 | 0 | 42 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 41 |
+| C++ | 42 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 29 |
+| Arrays | 30 |
 | Binary Search | 4 |
 | Strings | 3 |
 | Recursion | 1 |
@@ -46,6 +46,7 @@
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | Math, Recursion | C++ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Array, Divide and Conquer, Dynamic Programming | C++ |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Array, Matrix, Simulation | C++ |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | Array, Math | C++ |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | Math, String, Bit Manipulation, Simulation | C++ |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | Math, Binary Search, Newton's Method | C++ |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Array, Hash Table, Matrix | C++ |
