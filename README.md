@@ -168,6 +168,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -261,6 +262,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0344-reverse-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Enumeration
