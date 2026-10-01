@@ -142,6 +142,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -240,6 +241,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
