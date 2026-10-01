@@ -116,6 +116,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [2235-add-two-integers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2652-sum-multiples](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2652-sum-multiples/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -259,6 +260,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
