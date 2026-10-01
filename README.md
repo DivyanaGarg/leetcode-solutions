@@ -6,14 +6,14 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 36 | 12 | 0 | 48 |
+| 37 | 12 | 0 | 49 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 48 |
+| C++ | 49 |
 
 ## 🧠 Topics
 
@@ -21,7 +21,7 @@
 |:---|---:|
 | Arrays | 34 |
 | Binary Search | 4 |
-| Strings | 4 |
+| Strings | 5 |
 | Recursion | 1 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -62,6 +62,7 @@
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | Math | C++ |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | C++ |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | Array, Two Pointers | C++ |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | Two Pointers, String | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | Array | C++ |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 🟢 Easy | Array, Matrix | C++ |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | Array, Two Pointers, Sorting | C++ |
