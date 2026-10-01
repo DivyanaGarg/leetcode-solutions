@@ -141,6 +141,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0485-max-consecutive-ones](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -171,6 +172,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0169-majority-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
