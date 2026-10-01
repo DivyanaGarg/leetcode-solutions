@@ -6,14 +6,14 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 37 | 12 | 0 | 49 |
+| 38 | 12 | 0 | 50 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 49 |
+| C++ | 50 |
 
 ## 🧠 Topics
 
@@ -21,7 +21,7 @@
 |:---|---:|
 | Arrays | 34 |
 | Binary Search | 4 |
-| Strings | 5 |
+| Strings | 6 |
 | Recursion | 1 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -53,6 +53,7 @@
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | C++ |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Array, Two Pointers, Sorting | C++ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Array, Dynamic Programming | C++ |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Two Pointers, String | C++ |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | Array, Bit Manipulation | C++ |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 🟡 Medium | Array, Two Pointers, Binary Search | C++ |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm | C++ |
