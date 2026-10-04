@@ -141,6 +141,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0066-plus-one](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -176,6 +177,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0027-remove-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
