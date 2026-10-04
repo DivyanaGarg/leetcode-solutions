@@ -160,6 +160,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
