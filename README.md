@@ -161,6 +161,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -177,6 +178,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -195,6 +197,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +213,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
