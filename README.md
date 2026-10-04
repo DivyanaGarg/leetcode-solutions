@@ -133,6 +133,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0011-container-with-most-water](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -172,6 +173,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0011-container-with-most-water](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
