@@ -140,6 +140,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
@@ -256,6 +257,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
@@ -266,6 +268,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
