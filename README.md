@@ -6,21 +6,21 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 40 | 19 | 0 | 59 |
+| 40 | 20 | 0 | 60 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 59 |
+| C++ | 60 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 42 |
-| Binary Search | 6 |
+| Arrays | 43 |
+| Binary Search | 7 |
 | Strings | 7 |
 | Recursion | 1 |
 | Linked List | 0 |
@@ -66,6 +66,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | Array, Math, Two Pointers | C++ |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | 🟡 Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | C++ |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 🟡 Medium | Array, Binary Search, Sliding Window, Prefix Sum | C++ |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | Array, Binary Search, Divide and Conquer, Matrix | C++ |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | 🟢 Easy | Math | C++ |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | C++ |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | Array, Two Pointers | C++ |
