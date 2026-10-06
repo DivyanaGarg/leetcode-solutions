@@ -172,6 +172,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -219,6 +220,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -287,6 +289,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
