@@ -145,6 +145,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -210,6 +211,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -274,6 +276,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
