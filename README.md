@@ -157,6 +157,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0498-diagonal-traverse](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -260,6 +261,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0498-diagonal-traverse](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -271,6 +273,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0054-spiral-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0498-diagonal-traverse](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
