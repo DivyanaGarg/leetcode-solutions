@@ -157,6 +157,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -215,6 +216,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0074-search-a-2d-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
@@ -246,6 +248,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +281,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0059-spiral-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0498-diagonal-traverse](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
