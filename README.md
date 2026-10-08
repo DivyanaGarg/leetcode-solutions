@@ -6,21 +6,21 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 40 | 21 | 0 | 61 |
+| 40 | 22 | 0 | 62 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 61 |
+| C++ | 62 |
 
 ## 🧠 Topics
 
 | Topic | Problems |
 |:---|---:|
-| Arrays | 44 |
-| Binary Search | 8 |
+| Arrays | 45 |
+| Binary Search | 9 |
 | Strings | 7 |
 | Recursion | 1 |
 | Linked List | 0 |
@@ -71,6 +71,7 @@
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting | C++ |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | Array, Two Pointers | C++ |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | Two Pointers, String | C++ |
+| 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 🟡 Medium | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | Array | C++ |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | 🟡 Medium | Array, Matrix, Simulation | C++ |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 🟢 Easy | Array, Matrix | C++ |
