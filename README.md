@@ -166,6 +166,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0766-toeplitz-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -199,6 +200,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -224,6 +226,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
@@ -240,6 +243,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0169-majority-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
