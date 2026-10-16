@@ -6,14 +6,14 @@
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard | 🧠 Total |
 |:---:|:---:|:---:|:---:|
-| 40 | 23 | 1 | 64 |
+| 40 | 24 | 1 | 65 |
 
 ## 💻 Languages
 
 | Language | Problems |
 |:---|---:|
 | Java | 1 |
-| C++ | 64 |
+| C++ | 65 |
 
 ## 🧠 Topics
 
@@ -21,7 +21,7 @@
 |:---|---:|
 | Arrays | 46 |
 | Binary Search | 10 |
-| Strings | 8 |
+| Strings | 9 |
 | Recursion | 1 |
 | Linked List | 0 |
 | Stack | 0 |
@@ -75,6 +75,7 @@
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 🟡 Medium | Array, Binary Search, Sorting, Heap (Priority Queue), Matrix | C++ |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | Array | C++ |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | 🟡 Medium | Array, Matrix, Simulation | C++ |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | 🟡 Medium | Hash Table, Two Pointers, String, Sliding Window | C++ |
 | 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | 🔴 Hard | Array, Two Pointers, Binary Search, Sorting | C++ |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | 🟢 Easy | Array, Matrix | C++ |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | 🟢 Easy | Array, Two Pointers, Sorting | C++ |
