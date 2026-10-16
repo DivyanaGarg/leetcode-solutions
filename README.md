@@ -202,6 +202,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0189-rotate-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -217,6 +218,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0073-set-matrix-zeroes](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0567-permutation-in-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Binary Search
@@ -309,6 +311,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +325,7 @@ Problem metadata, statistics and this README are automatically updated using Git
 | [0125-valid-palindrome](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DivyanaGarg/leetcode-solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Enumeration
